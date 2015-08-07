@@ -1,0 +1,15 @@
+{
+  "name": "jmatch3",
+  "homepage": "https://github.com/hugeen/jmatch3",
+  "version": "0.0.2",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "04c2f5665c5609b4f92ff3783e2b2fc0e2efdccf"
+  },
+  "_source": "git://github.com/hugeen/jmatch3.git",
+  "_target": "~0.0.2",
+  "_originalSource": "jmatch3",
+  "_direct": true
+}

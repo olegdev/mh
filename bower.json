@@ -1,0 +1,11 @@
+{
+  "name": "Mouse Hammer",
+  "version": "0.0.1",
+  "authors": [
+    "olegdev <s2ferr@gmail.com>"
+  ],
+  "description": "Mouse Hammer 0.0.1",
+  "main": "main.js",
+  "moduleType": [],
+  "license": "LLC"
+}
